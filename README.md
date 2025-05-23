@@ -14,7 +14,7 @@ I'm a **Computer Engineer** passionate about building engaging user experiences 
 
 ---
 
-🌱 **Currently Learning:** Expanding my knowledge in Front-end development.
+🌱 **Currently Learning:** Deepening my understanding of **DOM manipulation with JavaScript**, building a solid foundation for advanced **Front-end development and future work with React**.
 
 **Looking for:** Opportunities to build impactful web applications and contribute to innovative teams.
 
